@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Myanmar.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-<p align="left"> <img src="https://tenor.com/view/eto-tokyo-ghoul-gif-20195858" /> </p>
+<p align="left"> <img src="https://tenor.com/view/eto-tokyo-ghoul-gif-20195858"alt /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3to3to" alt="3to3to" /></a> </p>
 
