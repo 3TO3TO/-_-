@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 3TO!</h1>
 <h3 align="center">A passionate frontend developer from Myanmar.</h3>
-(img align="right" alt="Coding" width="400" src="https://tenor.com/view/eto-tokyo-ghoul-gif-20195858")
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/eto-tokyo-ghoul-gif-20195858">
 
 <p align="left"> <img src="https://tenor.com/view/eto-tokyo-ghoul-gif-20195858" alt /> </p>
 
