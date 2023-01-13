@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Myanmar.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3to3to&label=Profile%20views&color=0e75b6&style=flat" alt="3to3to" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=3to3to&label=Profile%20views&color=0e75b6&style=flat" alt="3to3to](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Feto-yoshimura-eto-tokyo-ghoul-ghoul-scary-gif-16442327&psig=AOvVaw0j9NSAwldomlD1Dj2lbtAq&ust=1673712453047000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPi2v8fzxPwCFQAAAAAdAAAAABAL)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3to3to" alt="3to3to" /></a> </p>
 
